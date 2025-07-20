@@ -44,9 +44,8 @@ You control the snake using your **hand gestures via camera**, making the experi
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="https://github.com/Pratik-1213/Snake-Game-Using-Computer-Vision/blob/main/screenshots/hand-tracking-ui.png" width="300" alt="Hand Tracking UI"/>
-  <img src="https://github.com/Pratik-1213/Snake-Game-Using-Computer-Vision/blob/main/screenshots/gameplay.png" width="300" alt="Gameplay UI"/>
-  <img src="https://github.com/Pratik-1213/Snake-Game-Using-Computer-Vision/blob/main/screenshots/game-over.png" width="300" alt="Game Over UI"/>
+  <img src="https://github.com/Pratik-1213/Snake-Game-Using-Computer-Vision/blob/main/Game%201.png" width="300" alt="Hand Tracking UI"/>
+  <img src="https://github.com/Pratik-1213/Snake-Game-Using-Computer-Vision/blob/main/Game%202.png" width="300" alt="Gameplay UI"/>
 </p>
 
 > 💡 Make sure to upload your actual screenshots in a `screenshots/` folder in the repo and replace the image links above accordingly.
